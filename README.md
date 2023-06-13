@@ -1,1 +1,1 @@
-# my_first_cmake_project
+# 10.1 Простейший проект
